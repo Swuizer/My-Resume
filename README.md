@@ -1,3 +1,5 @@
+<b> This Resume is not updated</b>
+
 # My-Resume Project Live Link <br/><br/>
 <b>Dev Detective :- </b> https://dev23.netlify.app/<br/>
 <b>Top Courses :- </b> https://course23.netlify.app/<br/>
